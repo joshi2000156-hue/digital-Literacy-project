@@ -33,7 +33,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
   - Online safety tips (passwords, phishing, 2FA)  
 - Learned how to present information clearly and visually  
 
-🔗 Link:          /// link for canva ///
+🔗 Link:  https://canva.link/tr5a1eok53eoc41
 
 ---
 
@@ -56,7 +56,7 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 ---
 
 ## Digital Literacy Awareness Quiz
-[Click here to test your digital awareness] /// google form link///
+[Click here to test your digital awareness] https://docs.google.com/forms/d/e/1FAIpQLSdxYqUdoqif4vxehe1OKdh5Dxy3WSYowcAJGQ3DBAh2oCfENg/viewform?usp=dialog
 
 ---
 
